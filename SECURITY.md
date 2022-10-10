@@ -2,9 +2,9 @@ Thanks for helping make GitHub safe for everyone ❤️
 
 ## Security
 
-GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [desktop](https://github.com/desktop).
+GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub Desktop](https://github.com/desktop).
 
-GitHub Desktop itself is part of [GitHub's bug bounty program](https://bounty.github.com/) and vulnerabilities should be reported there. The Desktop organization on GitHub also contains other open source repositories which may be outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards. Even if that's the case we will ensure that your finding gets passed along to the appropriate maintainers for remediation.
+GitHub Desktop itself is part of [GitHub's bug bounty program](https://bounty.github.com/) and vulnerabilities should be reported there. The GitHub Desktop organization on GitHub also contains other open source repositories which may be [outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards. Even if that's the case we will ensure that your finding gets passed along to the appropriate maintainers for remediation.
 
 ## Reporting Security Issues
 
